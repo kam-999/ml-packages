@@ -22,7 +22,7 @@ setup(
     description="A package for Logistic Regression, KNN, and Decision Linear SVM",
     long_description=long_description,  # Read from the README file
     long_description_content_type="text/markdown",  # Specifies markdown format
-    url="https://github.com/kam-999/LinearRegression.git",  # Package repository URL
+    url="https://github.com/kam-999/ml-packages.git",  # Package repository URL
     packages=find_packages(),  # Automatically finds all packages in the directory
     
     install_requires=get_requirements("requirements.txt")
