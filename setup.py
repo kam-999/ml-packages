@@ -15,7 +15,7 @@ def get_requirements(file_path):
          
          # Call the setup function to define package metadata
 setup(
-    name="Ml-Packages",  # Replace with your package name
+    name="ml-packages",  # Replace with your package name
     version="1.0",  # Start with a version number
     author="kamal",  # Your name or organization
     author_email="kamalar710@gmail.com",  # Your email address
